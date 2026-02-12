@@ -1,0 +1,17 @@
+level,component_reference,component_name,component_quantity,parent_bom_reference,parent_bom_name,has_child_bom
+0,M01425,Dust Shoe 43mm (AMB Spindle compatible),1.00,,,True
+1,M00470,Dust Shoe 43mm - PMMA Parts,1.00,M01425,Dust Shoe 43mm (AMB Spindle compatible),False
+1,M00476,"DST-43 - Brush 40mm, 430mm length",1.00,M01425,Dust Shoe 43mm (AMB Spindle compatible),True
+2,M00475,Dust Shoe Brush 40mm (m),0.44,M00476,"DST-43 - Brush 40mm, 430mm length",False
+1,M00468,DST-43 - Magnet Bag - M3,1.00,M01425,Dust Shoe 43mm (AMB Spindle compatible),True
+2,M00634,Magnet M3 thread Ø 13mm,2.00,M00468,DST-43 - Magnet Bag - M3,False
+2,M00636,Magnet Washer Ø 12mm,2.00,M00468,DST-43 - Magnet Bag - M3,False
+1,M00469,DST-43 - Miscellaneous Components Bag,1.00,M01425,Dust Shoe 43mm (AMB Spindle compatible),True
+2,M00836,TFHC M3x16 Black screw,2.00,M00469,DST-43 - Miscellaneous Components Bag,False
+2,M01717,DIN912 M3x10 Black screw,2.00,M00469,DST-43 - Miscellaneous Components Bag,False
+2,M01675,DIN912 M4x25 Black screw,2.00,M00469,DST-43 - Miscellaneous Components Bag,False
+2,M00454,DIN912 M6x40 Black screw,2.00,M00469,DST-43 - Miscellaneous Components Bag,False
+2,M00842,Tooth Lock Washer DIN6798 M6 Type A Black,2.00,M00469,DST-43 - Miscellaneous Components Bag,False
+2,M00075,B-Type Square Nut M6,2.00,M00469,DST-43 - Miscellaneous Components Bag,False
+2,M00628,Lock Nut DIN985 M3,2.00,M00469,DST-43 - Miscellaneous Components Bag,False
+2,M00629,Lock Nut DIN985 M4,2.00,M00469,DST-43 - Miscellaneous Components Bag,False
