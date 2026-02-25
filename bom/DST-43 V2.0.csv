@@ -1,0 +1,16 @@
+level,component_reference,component_name,component_quantity,parent_bom_reference,parent_bom_name,has_child_bom
+0,M01744,DSU - 43 (AMB),1.00,,,True
+1,M01732,DSU - PMMA Parts,1.00,M01744,DSU - 43 (AMB),False
+1,M01735,DSU - Brush 40mm - 460mm,1.00,M01744,DSU - 43 (AMB),False
+1,M01736,DSU - AMB Bag,1.00,M01744,DSU - 43 (AMB),True
+2,M01734,DSU - PMMA - AMB Ring,1.00,M01736,DSU - AMB Bag,False
+2,M01742,DIN912 - M4x14 Black Screw,3.00,M01736,DSU - AMB Bag,False
+1,,DSU - Screw Bag,1.00,M01744,DSU - 43 (AMB),True
+2,M00635,Magnet M4 thread Ø 20mm,2.00,DSU - Screw Bag,DSU - Screw Bag,False
+2,M00637,Magnet Washer Ø 18mm,2.00,DSU - Screw Bag,DSU - Screw Bag,False
+2,M01743,DIN7991 - M4x10 Black Screw,2.00,DSU - Screw Bag,DSU - Screw Bag,False
+2,M01696,DIN912 M4x10 Black screw,2.00,DSU - Screw Bag,DSU - Screw Bag,False
+2,M01739,DIN912 - M4x50 Black Screw,2.00,DSU - Screw Bag,DSU - Screw Bag,False
+2,M00629,Lock Nut DIN985 M4,7.00,DSU - Screw Bag,DSU - Screw Bag,False
+2,M00423,DIN9021 Washer M4x12,4.00,DSU - Screw Bag,DSU - Screw Bag,False
+2,M01740,DIN6798 - Tooth Lock Washer M4 - Type A Black,4.00,DSU - Screw Bag,DSU - Screw Bag,False
