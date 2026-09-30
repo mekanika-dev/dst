@@ -17,8 +17,8 @@ All 3D assembly files are made in STEP format and compatible with many CAD softw
 
 The design files can also be viewed in web browsers using these links:
 
-- [Dust Shoe 43mm](https://a360.co/4tVCu9q)
-- [Dust Shoe 59mm](https://a360.co/47bQkL8)
+- [Dust Shoe 43mm](https://a360.co/4AHyddf)
+- [Dust Shoe 59mm](https://a360.co/4jfQfNF)
 
 ## Assembly Guide
 
